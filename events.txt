@@ -1,4 +1,50 @@
-Click: LButton, Position: x1060, y438
-Click: LButton, Position: x1118, y438
-Click: LButton, Position: x1060, y439
-Click: LButton, Position: x988, y293
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x400, y318
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x373, y832
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x1466, y803
+Click: LButton, Position: x1466, y830
+Click: LButton, Position: x1735, y256
+Key: Tab, State: Down, Ctrl: Yes, Shift: No
+Click: LButton, Position: x1391, y229
+Click: LButton, Position: x1092, y181
