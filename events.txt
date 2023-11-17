@@ -1,0 +1,3 @@
+Click: LButton, Position: x1456, y734, Time: 4183387000
+Drag Start: LButton, Position: x1456, y734, Time: 4183387015
+Drag End: LButton, Position: x1449, y989, Time: 4183388234
