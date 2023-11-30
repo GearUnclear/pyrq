@@ -41,6 +41,8 @@ output_file_path = r"C:\Users\danewagenhoffer\pyrq\actions.ahk"
 
 # Writing the toggle, transformed content, and ending to the file
 with open(output_file_path, 'w') as file:
+    # Writing the SingleInstance directive
+    file.write("#SingleInstance force\n")
     # Writing the toggle
     file.write("toggle := false\n#MaxThreadsPerHotkey 2  ; Allows a hotkey to interrupt itself\nF1::\n    toggle := !toggle\n    while (toggle) {\n")
     # Writing the transformed content
