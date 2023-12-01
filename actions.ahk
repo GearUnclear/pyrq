@@ -4,27 +4,39 @@ toggle := false
 F1::
     toggle := !toggle
     while (toggle) {
-	MouseClick, Left, 1232, 545
+	MouseClick, Left, 877, 136
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1232, 545
+	MouseClick, Left, 886, 122
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1436, 566
+	MouseClick, Left, 862, 241
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1251, 772
+	MouseClick, Left, 857, 123
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 830, 17
+	MouseClick, Left, 840, 245
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1340, 770
+	MouseClick, Left, 845, 116
+Sleep, 250
+	if (!toggle)
+		break
+	MouseClick, Left, 854, 208
+Sleep, 250
+	if (!toggle)
+		break
+	MouseClick, Left, 841, 128
+Sleep, 250
+	if (!toggle)
+		break
+	MouseClick, Left, 841, 215
 Sleep, 250
 	if (!toggle)
 		break
