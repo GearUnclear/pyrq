@@ -1,9 +1,0 @@
-Click: LButton, Position: x877, y136
-Click: LButton, Position: x886, y122
-Click: LButton, Position: x862, y241
-Click: LButton, Position: x857, y123
-Click: LButton, Position: x840, y245
-Click: LButton, Position: x845, y116
-Click: LButton, Position: x854, y208
-Click: LButton, Position: x841, y128
-Click: LButton, Position: x841, y215
