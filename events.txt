@@ -1,0 +1,35 @@
+Click: LButton, Position: x1097, y244
+Click: LButton, Position: x1097, y244
+Click: LButton, Position: x1097, y244
+Click: LButton, Position: x-1104, y251
+Click: LButton, Position: x834, y177
+Click: LButton, Position: x1145, y176
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x360, y250
+Click: LButton, Position: x393, y598
+Click: LButton, Position: x268, y786
+Click: LButton, Position: x286, y766
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelUp
+WheelUp
