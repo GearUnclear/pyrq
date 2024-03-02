@@ -4,6 +4,10 @@ toggle := false
 F1::
     toggle := !toggle
     while (toggle) {
+	MouseClick, Left, 673, 298
+Sleep, 250
+	if (!toggle)
+		break
 	
 	if (!toggle)
 		break
