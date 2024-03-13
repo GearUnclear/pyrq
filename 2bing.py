@@ -9,7 +9,11 @@ def transform_line(line):
 
     elif line.startswith("Wheel"):
         direction = line.strip()
-        return f"MouseClick, {direction}\nSleep, 20 ; Pause between each scroll"
+        if "WheelUp" in direction:
+            return f"Sleep, 90\nMouseClick, {direction}\nSleep, 20 ; Pause between each scroll up for CPU"
+        else:
+            return f"MouseClick, {direction}\nSleep, 20 ; Pause between each scroll down"
+            
     elif line.startswith("Key:"):
         parts = line.split(', ')
         key = parts[0].split(': ')[1]
@@ -25,6 +29,7 @@ def transform_line(line):
         return f"Send, {modifiers}{{{key}}}"
     else:
         return line
+
 
 # Path to the input file
 input_file_path = r"C:\Users\DaneWagenhoffer\pyrq\events.txt"

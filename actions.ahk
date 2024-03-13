@@ -5,229 +5,272 @@ F1::
     toggle := !toggle
     while (toggle) {
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
 	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+Sleep, 20 ; Pause between each scroll down
 	if (!toggle)
 		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+	Sleep, 90
+MouseClick, WheelUp
+Sleep, 20 ; Pause between each scroll up for CPU
 	if (!toggle)
 		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+	Sleep, 90
+MouseClick, WheelUp
+Sleep, 20 ; Pause between each scroll up for CPU
 	if (!toggle)
 		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
+	Sleep, 90
+MouseClick, WheelUp
+Sleep, 20 ; Pause between each scroll up for CPU
 	if (!toggle)
 		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, WheelDown
-Sleep, 20 ; Pause between each scroll
-	if (!toggle)
-		break
-	MouseClick, Left, 1275, 576
+	MouseClick, Left, 405, 248
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1271, 595
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, Left, 372, 828
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1212, 598
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, WheelDown
+Sleep, 20 ; Pause between each scroll down
+	if (!toggle)
+		break
+	MouseClick, Left, 1459, 725
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1219, 573
+	MouseClick, Left, 1462, 829
 Sleep, 250
 	if (!toggle)
 		break
-	MouseClick, Left, 1219, 573
-Sleep, 250
-	if (!toggle)
-		break
-	MouseClick, Left, 1218, 573
-Sleep, 250
-	if (!toggle)
-		break
-	MouseClick, Left, 1807, 267
+	MouseClick, Left, 1706, 261
 Sleep, 250
 	if (!toggle)
 		break
 	Send, ^{Tab}
 	if (!toggle)
 		break
-	MouseClick, Left, 1278, 191
+	MouseClick, Left, 984, 575
 Sleep, 250
 	if (!toggle)
 		break
