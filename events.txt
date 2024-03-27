@@ -1,0 +1,103 @@
+Click: LButton, Position: x919, y179
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x1264, y1044
+Click: LButton, Position: x1058, y828
+WheelUp
+WheelUp
+Click: LButton, Position: x1057, y266
+Click: LButton, Position: x1682, y252
+Key: Tab, State: Down, Ctrl: Yes, Shift: No
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x1051, y826
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x1050, y429
+Click: LButton, Position: x1181, y421
+Click: LButton, Position: x1243, y428
+Click: LButton, Position: x1709, y258
+Key: Tab, State: Up, Ctrl: Yes, Shift: No
+Click: LButton, Position: x960, y184
