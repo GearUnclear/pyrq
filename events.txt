@@ -1,4 +1,5 @@
-Click: LButton, Position: x919, y179
+Click: LButton, Position: x918, y1189
+Click: LButton, Position: x740, y424
 WheelDown
 WheelDown
 WheelDown
@@ -7,97 +8,501 @@ WheelDown
 WheelDown
 WheelDown
 WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-Click: LButton, Position: x1264, y1044
-Click: LButton, Position: x1058, y828
-WheelUp
-WheelUp
-Click: LButton, Position: x1057, y266
-Click: LButton, Position: x1682, y252
-Key: Tab, State: Down, Ctrl: Yes, Shift: No
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-WheelDown
-Click: LButton, Position: x1051, y826
 WheelUp
 WheelUp
 WheelUp
-Click: LButton, Position: x1050, y429
-Click: LButton, Position: x1181, y421
-Click: LButton, Position: x1243, y428
-Click: LButton, Position: x1709, y258
-Key: Tab, State: Up, Ctrl: Yes, Shift: No
-Click: LButton, Position: x960, y184
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x837, y566
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x840, y571
+Click: LButton, Position: x804, y567
+Click: LButton, Position: x388, y422
+Click: LButton, Position: x302, y584
+Click: LButton, Position: x292, y530
+Click: LButton, Position: x161, y13
+Click: LButton, Position: x312, y296
+Click: LButton, Position: x386, y589
+Click: LButton, Position: x374, y619
+Click: LButton, Position: x374, y619
+Click: LButton, Position: x374, y619
+Click: LButton, Position: x459, y16
+Click: LButton, Position: x634, y140
+Click: LButton, Position: x194, y99
+Click: LButton, Position: x946, y596
+Click: LButton, Position: x228, y296
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x290, y19
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x862, y494
+Click: LButton, Position: x993, y1105
+Click: RButton, Position: x681, y336
+Click: LButton, Position: x509, y392
+Click: LButton, Position: x282, y294
+Click: LButton, Position: x852, y19
+Click: LButton, Position: x607, y245
+Click: LButton, Position: x658, y266
+Click: LButton, Position: x663, y266
+Click: LButton, Position: x305, y121
+Click: LButton, Position: x628, y246
+Click: LButton, Position: x628, y246
+Click: LButton, Position: x628, y246
+Click: RButton, Position: x628, y246
+Click: LButton, Position: x253, y378
+Click: LButton, Position: x687, y23
+Click: LButton, Position: x687, y23
+Click: LButton, Position: x687, y23
+Click: LButton, Position: x922, y21
+Click: LButton, Position: x621, y246
+Click: LButton, Position: x621, y246
+Click: RButton, Position: x1022, y370
+Click: LButton, Position: x321, y382
+Click: LButton, Position: x839, y23
+Click: RButton, Position: x610, y208
+Click: LButton, Position: x713, y407
+Click: LButton, Position: x374, y832
+Click: LButton, Position: x1003, y37
+Click: LButton, Position: x341, y253
+Click: RButton, Position: x341, y253
+Click: LButton, Position: x405, y557
+Click: LButton, Position: x802, y18
+Click: LButton, Position: x837, y492
+Click: RButton, Position: x437, y227
+Click: LButton, Position: x534, y536
+Click: LButton, Position: x97, y120
+Click: LButton, Position: x39, y137
+Click: LButton, Position: x41, y122
+Click: LButton, Position: x38, y93
+Click: LButton, Position: x836, y13
+Click: LButton, Position: x332, y228
+Click: LButton, Position: x332, y228
+Click: LButton, Position: x480, y233
+Click: LButton, Position: x1408, y714
+Click: LButton, Position: x1652, y813
+Click: LButton, Position: x626, y244
+Click: RButton, Position: x626, y244
+Click: LButton, Position: x510, y436
+Click: LButton, Position: x41, y254
+Click: LButton, Position: x1459, y691
+Click: LButton, Position: x788, y-37
+Click: LButton, Position: x290, y247
+Click: RButton, Position: x290, y247
+Click: LButton, Position: x255, y221
+Click: RButton, Position: x255, y221
+Click: LButton, Position: x412, y525
+Click: LButton, Position: x750, y153
+Click: LButton, Position: x778, y479
+Click: LButton, Position: x166, y137
+Click: LButton, Position: x865, y71
+Click: LButton, Position: x805, y102
+Click: LButton, Position: x894, y1113
+Click: LButton, Position: x1078, y942
+Click: LButton, Position: x1411, y1191
+Click: LButton, Position: x1252, y849
+Click: LButton, Position: x1271, y669
+Click: LButton, Position: x1392, y1168
+Click: LButton, Position: x261, y137
+Click: LButton, Position: x213, y144
+Click: LButton, Position: x156, y146
+Click: LButton, Position: x941, y25
+Click: LButton, Position: x1022, y14
+Click: LButton, Position: x274, y81
+Click: LButton, Position: x285, y226
+Click: LButton, Position: x285, y226
+Click: LButton, Position: x891, y734
+Click: LButton, Position: x391, y265
+Click: LButton, Position: x391, y265
+Click: LButton, Position: x444, y280
+Click: LButton, Position: x605, y347
+Click: LButton, Position: x690, y420
+Click: LButton, Position: x542, y288
+Click: LButton, Position: x425, y26
+Click: LButton, Position: x768, y967
+Click: LButton, Position: x676, y8
+Click: LButton, Position: x443, y8
+Click: LButton, Position: x936, y1176
+Click: LButton, Position: x1032, y500
+Click: LButton, Position: x358, y909
+Click: LButton, Position: x219, y26
+Click: LButton, Position: x304, y14
+Click: LButton, Position: x818, y1167
+Click: LButton, Position: x165, y80
+Click: LButton, Position: x773, y11
+Click: LButton, Position: x651, y510
+Click: LButton, Position: x978, y508
+Click: LButton, Position: x987, y588
+Click: LButton, Position: x184, y97
+Click: LButton, Position: x650, y-146
+Click: LButton, Position: x488, y183
+Click: LButton, Position: x430, y510
+Click: LButton, Position: x1554, y135
+Click: LButton, Position: x910, y261
+Click: LButton, Position: x995, y469
+Click: LButton, Position: x992, y549
+Click: LButton, Position: x1130, y508
+Click: LButton, Position: x1069, y487
+Click: LButton, Position: x1069, y500
+Click: LButton, Position: x1069, y500
+Click: LButton, Position: x1069, y500
+Click: LButton, Position: x886, y699
+Click: LButton, Position: x891, y721
+Click: LButton, Position: x1072, y368
+Click: LButton, Position: x1032, y528
+Click: LButton, Position: x45, y180
+Click: LButton, Position: x1722, y234
+Click: LButton, Position: x1761, y321
+Click: LButton, Position: x1737, y382
+Click: LButton, Position: x1877, y253
+Click: LButton, Position: x1723, y488
+Click: LButton, Position: x1599, y499
+Click: LButton, Position: x1759, y248
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+Click: LButton, Position: x1497, y17
+Click: LButton, Position: x606, y352
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x39, y72
+WheelDown
+Click: LButton, Position: x559, y338
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x1278, y8
+Click: LButton, Position: x1710, y228
+Click: LButton, Position: x1310, y8
+Click: LButton, Position: x210, y410
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+Click: LButton, Position: x669, y369
+WheelDown
+WheelDown
+WheelUp
+WheelDown
+WheelDown
+WheelUp
+Click: LButton, Position: x1322, y249
+Click: LButton, Position: x1212, y18
+Click: LButton, Position: x1774, y254
+WheelDown
+Click: LButton, Position: x1787, y440
+Click: LButton, Position: x1277, y8
+Click: LButton, Position: x1351, y8
+Click: LButton, Position: x1017, y518
+Click: LButton, Position: x351, y1
+Click: LButton, Position: x353, y9
+Click: LButton, Position: x1154, y0
+Click: LButton, Position: x1340, y9
+Click: LButton, Position: x148, y694
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x1703, y11
+Click: LButton, Position: x361, y447
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelUp
+WheelDown
+WheelDown
+Click: LButton, Position: x1385, y8
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x1210, y78
+Click: LButton, Position: x1243, y12
+Click: LButton, Position: x966, y8
+Click: LButton, Position: x792, y8
+Click: LButton, Position: x615, y8
+Click: LButton, Position: x212, y8
+Click: LButton, Position: x1034, y8
+Click: LButton, Position: x252, y266
+Click: LButton, Position: x1716, y17
+Click: LButton, Position: x633, y104
+Click: LButton, Position: x24, y605
+Click: LButton, Position: x113, y161
+Click: LButton, Position: x124, y394
+Click: LButton, Position: x143, y371
+Click: LButton, Position: x1765, y124
+Click: LButton, Position: x1070, y255
+Click: LButton, Position: x402, y354
+Click: LButton, Position: x33, y122
+Click: LButton, Position: x88, y337
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x75, y376
+Click: LButton, Position: x808, y329
+Click: LButton, Position: x926, y589
+Click: LButton, Position: x1095, y508
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+WheelDown
+Click: LButton, Position: x724, y767
+Click: LButton, Position: x1036, y1004
+Click: LButton, Position: x1048, y1099
+Click: LButton, Position: x1475, y8
+Click: LButton, Position: x1587, y8
+Click: LButton, Position: x102, y133
+Click: LButton, Position: x113, y355
+Click: LButton, Position: x1799, y131
+Click: LButton, Position: x905, y251
+Click: LButton, Position: x297, y369
+Click: LButton, Position: x385, y174
+Click: LButton, Position: x290, y1095
