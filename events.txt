@@ -1,4 +1,5 @@
-Click: LButton, Position: x347, y335
-Click: RButton, Position: x347, y335
-Click: LButton, Position: x397, y527
+Click: LButton, Position: x1822, y560
+Click: LButton, Position: x1803, y694
+Click: LButton, Position: x2431, y275
 Key: Tab, State: Down, Ctrl: Yes, Shift: No
+Click: LButton, Position: x1805, y660
